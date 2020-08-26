@@ -1,5 +1,5 @@
 # Development Testing
-During the testing stage it is very important to have a broad thinking. Testing each component, connections between componets and the system as a whole are equally esential in order to ensure that the desired requirements are fulfilled. The testing stages reduce to unit testing, integration testing and system testing.
+During the testing stage it is very important to have a broad thinking. Testing each component, connections between componets and the system as a whole are equally essential in order to ensure that the desired requirements are fulfilled. The testing stages reduce to unit testing, integration testing and system testing.
 
 The tests can be run either locally using our IDE's(IntelliJ) run configuration or remotely via Continuous Integration. The latter represents a great tool for developers to keep their version of code up to date, avoiding problems like merge hell.
 ### Continuous Integration
